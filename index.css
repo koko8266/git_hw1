@@ -1,0 +1,58 @@
+/* Reset CSS: from YUI2: Reset CSS */
+html{
+	color:#000;
+	background:#E3F4A3; 
+	padding:20px 0;
+	font: 12px/18px "맑은 고딕", "Malgun Gothic", "굴림", "Gulim", Verdana, Arial, Tahoma;
+}
+
+#wrap{width: 900px;
+	padding: 30px 100px 50px 50px ; 
+	margin: 0 auto;
+	background-color:#EEF8c7; 
+	border-radius: 15px 15px 15px 15px;
+}
+
+#Title{
+	font-size:30px; 
+	margin-bottom: 40px;
+}
+#left{	float:left;
+	width: 300px;
+	margin:0 auto; 
+}
+#left img{
+	padding: 10px;
+	width:250px;
+	height:400px;
+}
+
+#rigth{
+}
+#right_top{
+	padding:100px 0 10px 0;	
+	font-size: 20px;
+}
+
+#right_middle{
+	line-height: 30px;
+	
+}
+
+
+span.gray{
+	color:#888;
+	margin:0 5px 0 0;
+
+}
+a.nodec{ text-decoration : none;}
+a:visited{color:#F56D66;}
+a:hover{text-decoration:underline;}
+
+
+#click{
+
+	padding:120px 0 10px 780px;
+	font-size: 30px;
+	
+}
